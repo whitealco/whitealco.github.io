@@ -6,7 +6,7 @@
   <link href="https://whitealco.github.io/atom.xml" rel="self"/>
   
   <link href="https://whitealco.github.io/"/>
-  <updated>2023-06-05T13:58:12.757Z</updated>
+  <updated>2023-06-05T14:09:03.674Z</updated>
   <id>https://whitealco.github.io/</id>
   
   <author>
@@ -20,8 +20,8 @@
     <title>Hello World</title>
     <link href="https://whitealco.github.io/2023/06/05/hello-world/"/>
     <id>https://whitealco.github.io/2023/06/05/hello-world/</id>
-    <published>2023-06-05T13:58:12.757Z</published>
-    <updated>2023-06-05T13:58:12.757Z</updated>
+    <published>2023-06-05T14:09:03.674Z</published>
+    <updated>2023-06-05T14:09:03.674Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
@@ -37,11 +37,35 @@
   </entry>
   
   <entry>
+    <title>图床测试</title>
+    <link href="https://whitealco.github.io/2023/06/05/tuchuang/"/>
+    <id>https://whitealco.github.io/2023/06/05/tuchuang/</id>
+    <published>2023-06-05T14:05:20.845Z</published>
+    <updated>2023-06-05T14:09:03.674Z</updated>
+    
+    <content type="html"><![CDATA[<p>图床测试，图床测试，图床测试（看看zelda和Link）<img src="https://cdn.jsdelivr.net/gh/whitealco/hexopict@master/Fekiq59UUAA8dnb_66d1d10805e499f29b9580d89c9e71dd.jpg" alt="https://cdn.jsdelivr.net/gh/whitealco/hexopict@master/Fekiq59UUAA8dnb_66d1d10805e499f29b9580d89c9e71dd.jpg"></p><p><img src="https://cdn.jsdelivr.net/gh/whitealco/hexopict@master/FcElnHAX0AQ3qKJ_11040f04aed41a104b424d2cb36f8494.jpg" alt="https://cdn.jsdelivr.net/gh/whitealco/hexopict@master/FcElnHAX0AQ3qKJ_11040f04aed41a104b424d2cb36f8494.jpg"></p><p><img src="https://cdn.jsdelivr.net/gh/whitealco/hexopict@master/FJY6ql3aUAcer5N_d4e473b5d047f17eebb841dbeeadc527.jfif" alt="https://cdn.jsdelivr.net/gh/whitealco/hexopict@master/FJY6ql3aUAcer5N_d4e473b5d047f17eebb841dbeeadc527.jfif"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;图床测试，图床测试，图床测试（看看zelda和Link）&lt;img src=&quot;https://cdn.jsdelivr.net/gh/whitealco/hexopict@master/Fekiq59UUAA8dnb_66d1d10805e499f29b9580d89c9e7</summary>
+      
+    
+    
+    
+    <category term="测试" scheme="https://whitealco.github.io/categories/%E6%B5%8B%E8%AF%95/"/>
+    
+    
+    <category term="测试" scheme="https://whitealco.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
     <title>qexo最终测试</title>
     <link href="https://whitealco.github.io/2023/06/01/%E6%9C%80%E7%BB%88%E6%B5%8B%E8%AF%95/"/>
     <id>https://whitealco.github.io/2023/06/01/%E6%9C%80%E7%BB%88%E6%B5%8B%E8%AF%95/</id>
     <published>2023-06-01T12:44:35.681Z</published>
-    <updated>2023-06-05T13:58:12.757Z</updated>
+    <updated>2023-06-05T14:09:03.674Z</updated>
     
     <content type="html"><![CDATA[<p>你好你好，哈哈哈，哈哈哈，哈哈哈</p><p>啥子😡 emoji测试</p>]]></content>
     
@@ -71,7 +95,7 @@
     <link href="https://whitealco.github.io/2023/05/16/%E6%9D%A5%E7%82%B9%E8%89%B2%E5%9B%BE/"/>
     <id>https://whitealco.github.io/2023/05/16/%E6%9D%A5%E7%82%B9%E8%89%B2%E5%9B%BE/</id>
     <published>2023-05-16T04:51:02.000Z</published>
-    <updated>2023-06-05T13:58:12.757Z</updated>
+    <updated>2023-06-05T14:09:03.674Z</updated>
     
     <content type="html"><![CDATA[<p>#第一篇blog#</p><p>##打一点语法测试##</p><p>###三级标题？###</p><p><strong>加粗</strong></p><p>本地测试</p><p><em>语法忘记了</em></p><p><em><strong>语法</strong></em></p>]]></content>
     
