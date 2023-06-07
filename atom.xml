@@ -6,7 +6,7 @@
   <link href="https://whitealco.github.io/atom.xml" rel="self"/>
   
   <link href="https://whitealco.github.io/"/>
-  <updated>2023-06-05T14:09:03.674Z</updated>
+  <updated>2023-06-07T05:26:15.856Z</updated>
   <id>https://whitealco.github.io/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://whitealco.github.io/2023/06/05/hello-world/"/>
-    <id>https://whitealco.github.io/2023/06/05/hello-world/</id>
-    <published>2023-06-05T14:09:03.674Z</published>
-    <updated>2023-06-05T14:09:03.674Z</updated>
+    <link href="https://whitealco.github.io/2023/06/07/hello-world/"/>
+    <id>https://whitealco.github.io/2023/06/07/hello-world/</id>
+    <published>2023-06-07T05:26:15.856Z</published>
+    <updated>2023-06-07T05:26:15.856Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
@@ -41,7 +41,7 @@
     <link href="https://whitealco.github.io/2023/06/05/tuchuang/"/>
     <id>https://whitealco.github.io/2023/06/05/tuchuang/</id>
     <published>2023-06-05T14:05:20.845Z</published>
-    <updated>2023-06-05T14:09:03.674Z</updated>
+    <updated>2023-06-07T05:26:15.856Z</updated>
     
     <content type="html"><![CDATA[<p>图床测试，图床测试，图床测试（看看zelda和Link）<img src="https://cdn.jsdelivr.net/gh/whitealco/hexopict@master/Fekiq59UUAA8dnb_66d1d10805e499f29b9580d89c9e71dd.jpg" alt="https://cdn.jsdelivr.net/gh/whitealco/hexopict@master/Fekiq59UUAA8dnb_66d1d10805e499f29b9580d89c9e71dd.jpg"></p><p><img src="https://cdn.jsdelivr.net/gh/whitealco/hexopict@master/FcElnHAX0AQ3qKJ_11040f04aed41a104b424d2cb36f8494.jpg" alt="https://cdn.jsdelivr.net/gh/whitealco/hexopict@master/FcElnHAX0AQ3qKJ_11040f04aed41a104b424d2cb36f8494.jpg"></p><p><img src="https://cdn.jsdelivr.net/gh/whitealco/hexopict@master/FJY6ql3aUAcer5N_d4e473b5d047f17eebb841dbeeadc527.jfif" alt="https://cdn.jsdelivr.net/gh/whitealco/hexopict@master/FJY6ql3aUAcer5N_d4e473b5d047f17eebb841dbeeadc527.jfif"></p>]]></content>
     
@@ -65,7 +65,7 @@
     <link href="https://whitealco.github.io/2023/06/01/%E6%9C%80%E7%BB%88%E6%B5%8B%E8%AF%95/"/>
     <id>https://whitealco.github.io/2023/06/01/%E6%9C%80%E7%BB%88%E6%B5%8B%E8%AF%95/</id>
     <published>2023-06-01T12:44:35.681Z</published>
-    <updated>2023-06-05T14:09:03.674Z</updated>
+    <updated>2023-06-07T05:26:15.856Z</updated>
     
     <content type="html"><![CDATA[<p>你好你好，哈哈哈，哈哈哈，哈哈哈</p><p>啥子😡 emoji测试</p>]]></content>
     
@@ -95,7 +95,7 @@
     <link href="https://whitealco.github.io/2023/05/16/%E6%9D%A5%E7%82%B9%E8%89%B2%E5%9B%BE/"/>
     <id>https://whitealco.github.io/2023/05/16/%E6%9D%A5%E7%82%B9%E8%89%B2%E5%9B%BE/</id>
     <published>2023-05-16T04:51:02.000Z</published>
-    <updated>2023-06-05T14:09:03.674Z</updated>
+    <updated>2023-06-07T05:26:15.856Z</updated>
     
     <content type="html"><![CDATA[<p>#第一篇blog#</p><p>##打一点语法测试##</p><p>###三级标题？###</p><p><strong>加粗</strong></p><p>本地测试</p><p><em>语法忘记了</em></p><p><em><strong>语法</strong></em></p>]]></content>
     
@@ -117,6 +117,26 @@
     
     
     <category term="测试" scheme="https://whitealco.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>关于</title>
+    <link href="https://whitealco.github.io/2023/05/03/about132/"/>
+    <id>https://whitealco.github.io/2023/05/03/about132/</id>
+    <published>2023-05-03T03:57:40.977Z</published>
+    <updated>2023-06-07T05:26:15.856Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/whitealco/hexopict@master/QQ%E5%9B%BE%E7%89%8720230607120920_6be396a5760ab70de05e7a4abe10788b.jpg" alt="https://cdn.jsdelivr.net/gh/whitealco/hexopict@master/QQ图片20230607120920_6be396a5760ab70de05e7a4abe10788b.jpg"></p><p><strong>#你好!</strong><br><strong>#我是 <em><em>whitealco</em></em> ，也可以叫我 <em><em>三白酒</em></em> 。</strong></p><hr><h1 id="关于我"><a href="#关于我" class="headerlink" title="#关于我"></a><strong>#关于我</strong></h1><h5 id="爱好"><a href="#爱好" class="headerlink" title="爱好"></a>爱好</h5><p><del>唱、跳、rap、篮球</del> 乱涂乱画，乱看书，乱想</p><h5 id="游戏"><a href="#游戏" class="headerlink" title="游戏"></a>游戏</h5><p>Minecraft（养老），zelda（<del>模拟器玩家</del> 别问，问就是极致体验），（没有了。。。</p><h5 id="计划"><a href="#计划" class="headerlink" title="计划"></a>计划</h5><ul><li>[ √ ]建一个vpn</li><li>[ √ ]建一个mc服务器</li><li>[ √ ]写一个自己的网站</li><li>[ × ]写一个app</li><li>[ × ]去霓虹玩</li><li>[ × ]去港澳台玩</li><li>[ × ]办一张cmlink</li><li>[ _  ]。。。</li><li>[ _  ]。。。</li></ul><p><strong><strong>（任重而道远，一步一个脚印，加油）</strong></strong></p><hr><h1 id="关于这个blog"><a href="#关于这个blog" class="headerlink" title="#关于这个blog"></a><strong>#关于这个blog</strong></h1><p>我是一个很喜欢发QQ空间和朋友圈的人，从小时候开始就很喜欢把有的没的都往上边发。</p><p>但是随着慢慢长大，QQ和微信也慢慢的加了很多老师、领导、陌生人……<del>（生活工作不分号的后果）</del></p><p>但是我就是一个爱吐槽的人，不吐不快。为了防止说错一些话和暴露一些自己的隐私，所以我不得不另寻办法。</p><p>最开始接触blog是一个学长的blog（<a href="https://luoshuijs.vip/">洛水.山岭居室</a>）学长只是分享一些技术类的文章，虽然博客的页面很好看，但哪个时候的刻板印象（blog只能写技术文章）让我除了牛逼便再无兴趣。</p><p>后来真正的开始想自己做一篇blog是接触到了”十年之约“这个博客社区项目，从里面的跳转链我接触到了各种各样的博客，有技术类的，有日记类的，还有照片观类型的，旅行志类型的……好不有趣。</p><p><strong><strong>”欸？这不就是我在找的、可以吐槽的地方吗“</strong></strong></p><p>这个念头悄然升起，所以便有了这个blog，建立于<strong>2023年5月3日</strong></p><hr><h1 id="写在最后"><a href="#写在最后" class="headerlink" title="#写在最后"></a><strong>#写在最后</strong></h1><p>我是一名初入计算机和互联网的小白，甚至小白也算不上。由于特殊的原因大学选专业的时候没有选择计算机亦或是互联网相关的专业，反而选择了一门法学分支末梢的学科。但是自小对计算机互联网的喜欢，让我在这个方向一直慢慢爬行。我常常吐槽自己”一个是生活，一个是梦想“。所以，在生活之余我也会继续坚持我的兴趣爱好，写写blog写写自己的成长</p><p>所以<br>用github action建立的hexo blog的hallo-world文章的时间怎么一直在更新啊，该怎么解决啊……..TvT</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/whitealco/hexopict@master/QQ%E5%9B%BE%E7%89%8720230607120920_6be396a5760ab70de05e7a4abe10788b.jpg&quot; </summary>
+      
+    
+    
+    
     
   </entry>
   
